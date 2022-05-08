@@ -1,4 +1,4 @@
-# A Simple Jsp &amp; Servlet Employee Crud Web Application 
+A Simple Jsp &amp; Servlet Employee Crud Web Application 
 
 * JSP / JSTL
 * Servlets
